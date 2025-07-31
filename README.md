@@ -55,22 +55,27 @@ Listro uses Git for version control and collaboration. If you don't have Git ins
 
 - Or download and install from [https://git-scm.com/download/mac](https://git-scm.com/download/mac)
 
-Verify installation with:
+## Verify installation with:
 
 ```bash
 git --version
-Linux (Debian/Ubuntu)
-bash
+```
+
+## Linux (Debian/Ubuntu)
+```bash
 Copy
 Edit
 sudo apt update
 sudo apt install git
 Verify installation:
+```
 
-'''bash
+```bash
 Copy
 Edit
 git --version
+```
+
 2. Clone the Repository
 Open your terminal or command prompt and run:
 
