@@ -80,8 +80,11 @@ git clone [https://github.com/KaesarWU/ListroProductivityApp-LPA-]
 cd listro
 ```
 ### 3. Install Node.js and npm
+
   *Download the latest LTS version from [https://nodejs.org/]
+  
   *Follow the installation instructions for your OS
+  
   *Verify installation:
 
 ```bash
@@ -96,9 +99,13 @@ npm install
 ```
 
 ### 5. Setup Firebase Credentials
+
   *Go to [https://console.firebase.google.com/]
+  
   *Create a new project and enable Firestore and Authentication
+
   *Create a web app inside the project and copy the Firebase config keys
+  
   *In your project root, create a file (.env.local) and add:
 
 ```env
